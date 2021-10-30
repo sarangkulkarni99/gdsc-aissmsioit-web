@@ -81,9 +81,9 @@ a {
 
 .nav-link:hover {
   border-radius: 20px;
-  background-color: chartreuse;
+  background-color: rgb(0, 204, 255);
   color: white !important;
-  transition: all linear 0.5s;
+  transition: all linear 0.3s;
   transform: scale(1.1);
 }
 
